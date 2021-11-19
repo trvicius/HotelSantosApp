@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-<img src="READMEimg/rRFaq.jpg" alt="exemplo imagem">
+<img src="READMEimg/img.jpg" alt="exemplo imagem">
 
 > Sistema Web Hoteleiro, desenvolvido inicialmente como projeto de finalização da faculdade UNIP curso de Analise e desenvolvimento de sistemas.
 ### Ajustes e melhorias
